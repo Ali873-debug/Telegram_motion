@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="_07806525224">07806525224</string>
+    <string name="account">Account</string>
+    <string name="user_name">user name</string>
+    <string name="ali_zainy">Ali zainy</string>
+    <string name="settings">Settings</string>
+    <string name="todo">TODO</string>
+    <string name="chat_settings">Chat Settings</string>
+    <string name="privacy_and_security">Privacy and security</string>
+    <string name="notification_and_sounds">Notification and Sounds</string>
+    <string name="data_and_storage">Data and storage</string>
+    <string name="phone_number">Phone number</string>
+</resources>

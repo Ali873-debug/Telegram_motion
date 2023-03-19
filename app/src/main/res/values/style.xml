@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="top_icon">
+        <item name="android:layout_marginTop">@dimen/large_space</item>
+        <item name="android:layout_marginStart">@dimen/normal_space</item>
+        <item name="android:layout_marginEnd">@dimen/normal_space</item>
+        <item name="android:elevation">1dp</item>
+        <item name="android:minWidth">@dimen/large_space</item>
+        <item name="android:minHeight">@dimen/large_space</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:layout_marginStart">@dimen/large_space</item>
+        <item name="android:layout_marginTop">@dimen/normal_space</item>
+
+
+    </style>
+</resources>
